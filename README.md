@@ -1,4 +1,10 @@
-## Hi there 👋
+## 🚀 Мои проекты
+### [Smart Organizer Bot](https://github.com/kampancevalena-lang/my_first_bot)
+Многопользовательский Telegram-бот для управления задачами. 
+- **Стек:** Python 3.13, Aiogram 3, SQLite, APScheduler.
+- **Фишка:** "Неубиваемые" напоминания и асинхронная архитектура.
+  
+
 
 <!--
 **kampancevalena-lang/kampancevalena-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
