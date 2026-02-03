@@ -14,7 +14,10 @@
 - **Стек:** Python 3.13, Aiogram 3, SQLite, APScheduler.
 - **Фишка:** "Неубиваемые" напоминания и асинхронная архитектура.
   
-
+### [Crypto SQL Analytics](https://github.com/kampancevalena-lang/crypto-sql-analytics)
+Симулятор рыночного мониторинга с глубокой SQL-аналитикой.
+- **Стек:** Python 3.13, SQLite.
+- **Фишка:** Использование агрегатных функций SQL (MAX, MIN, AVG) для мгновенного анализа больших массивов данных в реальном времени.
 
 <!--
 **kampancevalena-lang/kampancevalena-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
